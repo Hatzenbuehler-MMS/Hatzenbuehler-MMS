@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hatzenbuehler-MMS
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on new projects
