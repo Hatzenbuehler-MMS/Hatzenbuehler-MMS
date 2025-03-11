@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hatzenbuehler-MMS
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can contact me via Mail
 - 😄 Pronouns: he / him
